@@ -18,9 +18,9 @@ With over 2 years of experience as a Software Engineer, I'm on a mission to crea
 
 
 ------
-<h3 align="left">Activity:</h3>
+<!-- <h3 align="left">Activity:</h3>
 
-![Neel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neelp03&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true&hide_title=true)
+![Neel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neelp03&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true&hide_title=true) -->
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelp03&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="neelp03"/>         
